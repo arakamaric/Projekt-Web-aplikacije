@@ -1,0 +1,22 @@
+body {
+  font-family: Roboto, Arial, sans-serif;
+  background: #f0f2f5;
+}
+
+header {
+  background: #2563eb;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+nav a {
+  color: white;
+  margin: 0 10px;
+  text-decoration: none;
+}
+
+main {
+  max-width: 1000px;
+  margin: 30px auto;
+}
